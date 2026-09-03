@@ -4,7 +4,8 @@
 
 URL File Wizard is a modular C++17 command-line application designed to create custom Windows `.url` internet shortcuts cleanly and efficiently. It features a color-coded CLI interface, smart domain-to-name parsing, shell icon assignment, and interactive input verification.
 
-Built for users looking to organize web links locally on their filesystem rather than clogging browser bookmark spaces, URL File Wizard streamlines shortcut creation and remembers your recent destination folders across sessions.
+Built for users looking to organize web links locally on their filesystem rather than clogging browser bookmark spaces.
+URL File Wizard streamlines shortcut creation and remembers your recent destination folders across sessions.
 
 ## Features
 
