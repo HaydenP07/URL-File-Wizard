@@ -25,11 +25,10 @@ Built for users looking to organize web links locally on their filesystem rather
 
 ### Running the Prebuilt Executable
 1. Download the latest release from the **Releases** section.
-2. Extract the `.zip` archive.
-3. Run `URL_File_Wizard.exe`.
+2. Run `URL_File_Wizard.exe`.
 
 ### Compiling from Source
-1. Open the **Developer Command Prompt for Visual Studio**.
+1. Open the **Developer Command Prompt x64 for Visual Studio**.
 2. Navigate to the folder containing your source code and resources.
 3. Build using `cl.exe` with C++17 mode enabled:
 
