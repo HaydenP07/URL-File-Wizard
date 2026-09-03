@@ -1,0 +1,28 @@
+End-User License Agreement (EULA) for URL File Wizard
+Copyright © 2026 Hayden Price. All rights reserved.
+
+By downloading or using URL File Wizard (the "Software"), you agree to be bound by the terms of this agreement.
+
+1. Grant of License
+The copyright holder grants users a limited, non-exclusive, non-transferable license to download and use URL File Wizard subject to the terms of this agreement.
+
+2. Output and Generated Files
+You retain full ownership of any shortcuts, exports, or data generated using the Software. Commercial entities are explicitly permitted to use the Software to create files for profit and monetization, provided the Software itself is not being sold.
+
+3. Restrictions
+To protect the integrity and distribution of the Software, the following restrictions apply:
+
+a. Redistribution and Hosting: You may not redistribute, repackage, or host the Software executable on any third-party websites, servers, or platforms. All users must obtain the Software directly from the official GitHub repository.
+
+b. Monetization of the Software: You may not sell, lease, license, or otherwise monetize the Software itself without explicit written permission from the copyright holder.
+
+c. Reverse Engineering: You may not modify, decompile, reverse engineer, disassemble, or create modified versions of the Software.
+
+4. Unaffiliated with Microsoft
+URL File Wizard is an independent software project and is not affiliated with, endorsed by, or sponsored by Microsoft Corporation. Windows® is a registered trademark of Microsoft Corporation in the US and/or other countries. The Software does not grant rights to redistribute, copy, or use proprietary Microsoft assets, operating system components, or other intellectual property owned by third parties.
+
+5. Data Collection and Privacy
+To accurately track the usage and reach of this free tool, the author relies on download analytics provided by GitHub. The Software itself does not contain telemetry, track your personal usage, or collect the URLs or local file paths you process. By downloading the Software from the official repository, you acknowledge that your download request is subject to GitHub's standard privacy policy and analytics tracking.
+
+6. Disclaimer of Warranty and Liability
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
