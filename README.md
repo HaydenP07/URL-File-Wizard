@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>URL File Wizard</h1>
-</div>
+###URL File Wizard
 
 ## Overview
 
